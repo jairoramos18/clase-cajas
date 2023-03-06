@@ -1,8 +1,9 @@
 
 .container{
     background-color: bisque;
-    max-width: 800 px;
-    margin: auto;
+    max-width: 800px;
+    margin: 0 auto;
+    
 }
 
 .header{
@@ -11,22 +12,27 @@
 }
 .wrapper{
     background-color: chartreuse;
+    display: flex;
+   
+ 
+
 }
 .menu{
     background-color: coral;
     color: white;
     width: 30%;
-    height: 50 px;
-    float: left;
-
+    
+    
 }
 .content{
     background-color: darkcyan;
-    width: 70px
+    width: 70px;
+    color: black;
+    
     
    
 }
 .footer{
     background-color: deeppink;
-    clear: both;
+    /* clear: both; */
 }
