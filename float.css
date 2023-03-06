@@ -1,0 +1,32 @@
+
+.container{
+    background-color: bisque;
+    max-width: 800 px;
+    margin: auto;
+}
+
+.header{
+    background-color: brown;
+    height: 60px;
+}
+.wrapper{
+    background-color: chartreuse;
+}
+.menu{
+    background-color: coral;
+    color: white;
+    width: 30%;
+    height: 50 px;
+    float: left;
+
+}
+.content{
+    background-color: darkcyan;
+    width: 70px
+    
+   
+}
+.footer{
+    background-color: deeppink;
+    clear: both;
+}
